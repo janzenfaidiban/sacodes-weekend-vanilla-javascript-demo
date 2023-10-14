@@ -1,5 +1,5 @@
 # sacodes-weekend-vanilla-javascript-demo
 
-## API KEY
+## GitHub Pages
 
-```41a50ad9d6494295b4591a9d6a902eb0```
+https://janzenfaidiban.github.io/sacodes-weekend-vanilla-javascript-demo/
